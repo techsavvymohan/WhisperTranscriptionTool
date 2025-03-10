@@ -28,8 +28,8 @@ A desktop application that leverages OpenAI's Whisper model to transcribe audio 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/techsavvymohan/Alyssa.git
-   cd Alyssa
+   git clone https://github.com/techsavvymohan/WhisperTranscriptionTool
+   cd WhisperTranscriptionTool
    ```
 
 2. **Set Up a Virtual Environment (optional but recommended):**
