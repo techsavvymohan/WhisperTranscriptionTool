@@ -1,0 +1,9 @@
+whisper
+librosa>=0.10.0
+soundfile
+numpy
+python-dotenv
+openai-whisper
+resampy
+torch
+ffmpeg-python
